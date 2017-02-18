@@ -1,5 +1,4 @@
 import os
-
 os.system('clear')
 
 print("\n\nCALCULATE OVERLAPPING AREA BETWEEN TWO RECTANGLES")
