@@ -1,5 +1,5 @@
 # dp296_overlaps
-Challenge #296 (intermediate) from dailyprogrammer subreddit
+Challenge #296 (intermediate) from r/dailyprogrammer subreddit
 
 https://www.reddit.com/r/dailyprogrammer/comments/5jpt8v/20161222_challenge_296_intermediate_intersecting/?ref=share&ref_source=link
 
